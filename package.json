@@ -1,0 +1,23 @@
+{
+  "name": "airdrop-using-solana",
+  "version": "1.0.0",
+  "description": "airdrop using solana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areyouroot/airdrop-using-solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areyouroot/airdrop-using-solana/issues"
+  },
+  "homepage": "https://github.com/areyouroot/airdrop-using-solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.50.1"
+  }
+}
